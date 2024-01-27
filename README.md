@@ -14,4 +14,6 @@ Run the following commands,
 * `pkg install pdftk`
 
 # How to download?
-Download by running `git
+Download by running
+
+`git clone https://github.com/ag23sharp/cbz2pdf.git`
