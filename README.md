@@ -1,5 +1,6 @@
 # cbz2pdf
 Used to convert cbz to pdf files in termux.
+
 Can download the files directly from mega.io 
 
 # Prerequisites
@@ -26,3 +27,8 @@ Run the following commands,
 * `pkg install imagemagick`
 * `pkg install pdftk`
 * `pkg install megacmd`
+
+### Usage
+1. Run the script using `bash cbz2pdf.sh` and Add list fuction to add the corresponding password and urls.
+2. Retun the script and Convert the files.
+3. The output files are saved in `.huge` folder.
