@@ -12,17 +12,17 @@ Can download the files directly from mega.io
 ## Git
 ```sh
 $ git clone https://github.com/ag23sharp/cbz2pdf.git
+$ cd cbz2pdf
+$ bash cbz2pdf.sh
 ```
 ## Curl
 ```sh
-$ curl
+$ curl https://raw.githubusercontent.com/ag23sharp/cbz2pdf/main/cbz2pdf.sh
+$ chmod +x cbr2pdf.sh
+$ bash cbz2pdf.sh
 ```
 Run the following commands,
 * `pkg install git`
 * `pkg install imagemagick`
 * `pkg install pdftk`
-* `pkg install mega
-
-# How to download?
-Download by running
-
+* `pkg install megacmd`
