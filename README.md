@@ -19,7 +19,7 @@ $ bash cbz2pdf.sh
 ## Curl
 ```sh
 $ curl -O https://raw.githubusercontent.com/termuxBash/cbz2pdf/main/cbz2pdf.sh
-$ bash setup.sh
+$ bash cbz2pdf.sh
 ```
 ## Via setup file (Recommended)
 ```
