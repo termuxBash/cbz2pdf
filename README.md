@@ -5,9 +5,6 @@ Can download the files directly from mega.io
 
 # Prerequisites
 * Installed and running version of [Termux app](https://f-droid.org/en/packages/com.termux/).
-* `git`
-* `ImageMagick`
-* `pdftk` to merge the pdf files
 
 ### Installation
 
