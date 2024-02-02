@@ -16,11 +16,11 @@ $ git clone https://github.com/ag23sharp/cbz2pdf.git
 $ cd cbz2pdf
 $ bash cbz2pdf.sh
 ```
-## Curl
+## Curl (Recommended)
 ```sh
-$ curl https://raw.githubusercontent.com/ag23sharp/cbz2pdf/main/cbz2pdf.sh
-$ chmod +x cbr2pdf.sh
-$ bash cbz2pdf.sh
+$ curl https://raw.githubusercontent.com/termuxBash/cbz2pdf/main/setup.sh
+$ 
+$ bash setup.sh
 ```
 Run the following commands,
 * `pkg install git`
