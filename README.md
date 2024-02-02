@@ -22,7 +22,8 @@ $ curl https://raw.githubusercontent.com/termuxBash/cbz2pdf/main/cbz2pdf.sh
 $ bash setup.sh
 ```
 ## Via setup file (Recommended)
-```bash <(curl -s https://raw.githubusercontent.com/termuxBash/cbz2pdf/main/setup.sh)
+```
+bash <(curl -s https://raw.githubusercontent.com/termuxBash/cbz2pdf/main/setup.sh)
 ```
 Run the following commands,
 * `pkg install git`
