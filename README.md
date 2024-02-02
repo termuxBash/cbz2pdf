@@ -16,12 +16,13 @@ $ git clone https://github.com/ag23sharp/cbz2pdf.git
 $ cd cbz2pdf
 $ bash cbz2pdf.sh
 ```
-## Curl (Recommended)
+## Curl
 ```sh
-$ curl https://raw.githubusercontent.com/termuxBash/cbz2pdf/main/setup.sh
-$ 
+$ curl https://raw.githubusercontent.com/termuxBash/cbz2pdf/main/cbz2pdf.sh
 $ bash setup.sh
 ```
+## Via setup file (Recommended)
+`bash <(curl -s https://raw.githubusercontent.com/termuxBash/cbz2pdf/main/setup.sh)`
 Run the following commands,
 * `pkg install git`
 * `pkg install imagemagick`
