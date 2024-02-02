@@ -10,6 +10,12 @@ Can download the files directly from mega.io
 * `pdftk` to merge the pdf files
 
 ### Installation
+
+## Via setup file (Recommended)
+```
+bash <(curl -s https://raw.githubusercontent.com/termuxBash/cbz2pdf/main/setup.sh)
+```
+
 ## Git
 ```sh
 $ git clone https://github.com/ag23sharp/cbz2pdf.git
@@ -20,10 +26,6 @@ $ bash cbz2pdf.sh
 ```sh
 $ curl -O https://raw.githubusercontent.com/termuxBash/cbz2pdf/main/cbz2pdf.sh
 $ bash cbz2pdf.sh
-```
-## Via setup file (Recommended)
-```
-bash <(curl -s https://raw.githubusercontent.com/termuxBash/cbz2pdf/main/setup.sh)
 ```
 Run the following commands,
 * `pkg install git`
