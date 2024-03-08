@@ -30,6 +30,7 @@ Run the following commands,
 * `pkg install imagemagick`
 * `pkg install pdftk`
 * `pkg install megacmd`
+* `pkg install termux-api`
 
 ### Usage
 1. Run the script using `bash cbz2pdf.sh` and Add list fuction to add the corresponding password and urls.
