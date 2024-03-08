@@ -5,6 +5,7 @@ Can download the files directly from mega.io
 
 # Prerequisites
 * Installed and running version of [Termux app](https://f-droid.org/en/packages/com.termux/).
+* Install the [Termux:API](https://f-droid.org/en/packages/com.termux.api/).
 
 ### Installation
 
