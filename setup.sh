@@ -10,3 +10,4 @@ apt update && apt upgrade
 pkg install -y imagemagick
 pkg install -y pdftk
 pkg install -y megacmd
+pkg install -y termux-api
