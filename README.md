@@ -35,5 +35,5 @@ Run the following commands,
 ### Usage
 1. Run the script using `bash cbz2pdf.sh` and Add list fuction to add the corresponding password and urls.
    > Or run the script using `cbz` if installed via the [Setup file method](https://github.com/termuxBash/cbz2pdf/tree/main#via-setup-file-recommended)
-3. Retun the script and Convert the files.
+3. Rerun the script and Download then Convert the files.
 4. The output files are saved in `.huge` folder.
