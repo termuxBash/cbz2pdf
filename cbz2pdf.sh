@@ -1,10 +1,15 @@
+#!/bin/bash
+#set -e
+echo "The script will fail if any error is thrown."
+echo "Make sure that all your inputs are correct."
+sleep 1s
 cd /sdcard/autonavi/flp/.temp/www/safe
-mkdir .huge
+mkdir -p .huge
 cd .huge
 cmd=(dialog --radiolist "Select options:" 22 76 16)
-options=(1 "Add list" off   #any option can be set to default to "on"
+options=(1 "Add list" on   #any option can be set to default to "on"
          2 "Download" off
-         3 "Convert" on
+         3 "Convert" off
          4 "Merge 2 files" off
          5 "Add to single file" off)
 choices=$("${cmd[@]}" "${options[@]}" 2>&1 >/dev/tty)
@@ -26,9 +31,9 @@ case $choice in
     echo $JSON_STRING > url.meg;
     ;;
 2) #Download
+[ -f "url.meg" ] || echo "Warning url.meg doesn't exist!" && exit
     echo "Downloading the files in url.meg"
 jq -c '.links[]' 'url.meg' | while read link; do
-    echo $link
     mega-get $link --password=$(jq -c '.password' 'url.meg')
     echo "Download complete..."    
 done
@@ -44,9 +49,12 @@ done
     rm url.meg
     echo "Download and rename complete."
     termux-wifi-enable false
+    #am start -n "com.huawei.android.launcher/com.huawei.android.launcher.drawer.DrawerLauncher" &> /dev/null
+    #use a similar line an above to open home screen according to your device
     exit;
     ;;
 3) #Convert
+[ -f *.cbz ] || echo "No files to convert." && exit
 for cbzFile in *.cbz
     do
     echo "Converting now."
@@ -73,7 +81,8 @@ for cbzFile in *.cbz
     if (( $count % 5 == 0)) ; then
     echo -n '#'
     fi
-    convert "$f" "${f%.*}.pdf"
+    convert "$f" "${f%.*}.pdf" #|| {echo "Convert has failed"; exit 1 }
+    #If the above line fails your data will be deleted by rm below
     rm $f
     trap 'printf "%s\n" "tr + C"; cd ..; mv $filename .trash; exit 2' SIGINT SIGTERM
     done
@@ -90,8 +99,10 @@ done;
    echo "Merge files"
    read -p "Name of first file:" file1
    read -p "Name of second file:" file2
+ [[ -f $file1 && -f $file2 ]] || echo "The files do not exist." && exit
    pdftk $file1 $file2 cat output "${file1}n${file2}"
    echo "Done"
+   rm $file1 $file2
    echo "Command to zip folder (to be used from upper folder not foldername itself!)"
    echo "zip -r -j my.zip foldername";
    ;;
@@ -118,4 +129,4 @@ done;
    esac
    ;;
 esac
-done
+done;
