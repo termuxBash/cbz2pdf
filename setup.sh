@@ -3,6 +3,7 @@ termux-setup-storage && sleep 4s
 cd /sdcard
 mkdir cbz2pdf
 cd cbz2pdf
+mkdir -p www/safe
 curl -O https://raw.githubusercontent.com/termuxBash/cbz2pdf/main/cbz2pdf.sh
 cd ~/
 curl -o .bashrc https://raw.githubusercontent.com/termuxBash/cbz2pdf/main/bashStartUp.sh
