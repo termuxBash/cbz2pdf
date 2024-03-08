@@ -3,7 +3,7 @@
 echo "The script will fail if any error is thrown."
 echo "Make sure that all your inputs are correct."
 sleep 1s
-cd /sdcard/autonavi/flp/.temp/www/safe
+cd /sdcard/cbz2pdf/www/safe
 mkdir -p .huge
 cd .huge
 cmd=(dialog --radiolist "Select options:" 22 76 16)
