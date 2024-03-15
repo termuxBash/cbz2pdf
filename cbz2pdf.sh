@@ -31,7 +31,7 @@ case $choice in
     echo $JSON_STRING > url.meg;
     ;;
 2) #Download
-[ -f "url.meg" ] || echo "Warning url.meg doesn't exist!" && exit
+if [[ ! -f "url.meg" ]]; then echo "Warning url.meg doesn't exist!"; exit; fi
     echo "Downloading the files in url.meg"
 jq -c '.links[]' 'url.meg' | while read link; do
     mega-get $link --password=$(jq -c '.password' 'url.meg')
@@ -49,12 +49,11 @@ done
     rm url.meg
     echo "Download and rename complete."
     termux-wifi-enable false
-    #am start -n "com.huawei.android.launcher/com.huawei.android.launcher.drawer.DrawerLauncher" &> /dev/null
-    #use a similar line an above to open home screen according to your device
+    am start -n "com.huawei.android.launcher/com.huawei.android.launcher.drawer.DrawerLauncher" &> /dev/null
     exit;
     ;;
 3) #Convert
-[ -f *.cbz ] || echo "No files to convert." && exit
+if [[ ! $(unzip -l '*.cbz') ]]; then echo "No files to convert."; exit; fi
 for cbzFile in *.cbz
     do
     echo "Converting now."
@@ -94,12 +93,14 @@ for cbzFile in *.cbz
     mv "${filename}.temp" "${filenameWithoutZero}"
     rm $cbzFile
 done;
+    am start -n "com.huawei.android.launcher/com.huawei.android.launcher.drawer.DrawerLauncher" &> /dev/null
+    exit;
     ;;
 4) #Merge
    echo "Merge files"
    read -p "Name of first file:" file1
    read -p "Name of second file:" file2
- [[ -f $file1 && -f $file2 ]] || echo "The files do not exist." && exit
+if [[ ! -f $file1 ]] || [[ ! -f $file2 ]]; then echo "The files do not exist." ; exit; fi
    pdftk $file1 $file2 cat output "${file1}n${file2}"
    echo "Done"
    rm $file1 $file2
