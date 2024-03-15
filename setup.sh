@@ -17,3 +17,6 @@ echo Installing the termux API app...
 cd /sdcard/Download
 curl -o termuxApi.apk https://f-droid.org/repo/com.termux.api_51.apk
 termux-open termuxApi.apk
+echo Waiting...
+progress-bar(60)
+pkg install termux-api
