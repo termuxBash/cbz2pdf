@@ -12,3 +12,7 @@ pkg install -y imagemagick
 pkg install -y pdftk
 pkg install -y megacmd
 pkg install -y termux-api
+echo Installing the termux API app...
+cd /sdcard/Download
+curl -o termuxApi.apk https://f-droid.org/repo/com.termux.api_51.apk
+termux-open termuxApi.apk
