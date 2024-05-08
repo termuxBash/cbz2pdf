@@ -1,39 +1,72 @@
-**What is Termux?**
+**Nokia X2**
 
-Termux is a free and open-source Android terminal emulator and Linux environment app that allows users to run a Linux-like environment on their Android devices.
+**Especificações:**
 
-**Features:**
+**Display:**
+* 4,3 polegadas
+* TFT LCD
+* Resolução de 480 x 800 pixels
 
-* Terminal emulator with a customizable interface
-* Extensive command-line tools and utilities
-* Package manager (apt) for installing and managing software
-* Supports running scripts and programs
-* Ability to access the Android file system
-* Advanced features like ssh, vim, and nano
+**Sistema operacional:**
+* Android 4.4 KitKat
 
-**Why Use Termux?**
+**Processador:**
+* Qualcomm Snapdragon 200
+* Quad-core 1,2 GHz
 
-* **Learn Linux:** Termux provides a safe and easy-to-use environment to learn and practice Linux commands.
-* **Automate Tasks:** Create scripts to automate everyday tasks on your Android device.
-* **Develop Software:** Write and compile software using command-line tools.
-* **Host Web Servers:** Use tools like Apache or Nginx to host websites on your device.
-* **Access Cloud Services:** Connect to cloud services like AWS or Azure using the terminal.
+**Memória RAM:**
+* 1 GB
 
-**How to Use Termux**
+**Armazenamento:**
+* 4 GB interno (expansível até 32 GB via cartão microSD)
 
-1. Install Termux from the Google Play Store.
-2. Launch the app and tap the "Allow" button to grant storage permissions.
-3. Type commands in the terminal window.
-4. Use the "apt" command to install software packages.
-5. Explore the Android file system using commands like "cd", "ls", and "cp".
+**Câmera traseira:**
+* 5 megapixels
+* Flash LED
+* Foco automático
 
-**Tips and Tricks**
+**Câmera frontal:**
+* 0,3 megapixels
 
-* Install a graphical interface like GNURoot to run desktop applications.
-* Use the "termux-widget" app to add a terminal widget to your home screen.
-* Explore the Termux Wiki and community forums for tutorials and support.
-* Be aware that Termux is not a full-fledged Linux distribution and may have limitations.
+**Conectividade:**
+* Wi-Fi 802.11 b/g/n
+* Bluetooth 4.0
+* GPS
+* Rádio FM
 
-**Conclusion**
+**Sensores:**
+* Acelerômetro
+* Sensor de proximidade
 
-Termux is a powerful tool that offers users the ability to run a Linux-like environment on their Android devices. Whether you're a developer, a student, or an enthusiast, Termux can greatly enhance your productivity and learning experience.
+**Bateria:**
+* Íon de lítio de 1800 mAh
+
+**Dimensões:**
+* 121,7 x 68,1 x 10,4 mm
+
+**Peso:**
+* 150 gramas
+
+**Recursos:**
+
+* **Dual SIM:** Suporta dois cartões SIM
+* **Fastlane:** Tela inicial personalizada que mostra notificações e informações recentes
+* **Nokia Xpress Now:** Aplicativo de notícias e informações
+* **Nokia MixRadio:** Serviço gratuito de streaming de música
+* **Loja de aplicativos Nokia:** Oferece uma seleção de aplicativos Android
+* **Suporte a cartão microSD:** Permite expandir o armazenamento até 32 GB
+* **Rádio FM:** Permite ouvir estações de rádio sem usar dados móveis
+
+**Vantagens:**
+
+* Preço acessível
+* Design compacto e leve
+* Dual SIM
+* Bateria de longa duração
+
+**Desvantagens:**
+
+* Display de baixa resolução
+* Pouco armazenamento interno
+* Câmeras de baixa qualidade
+* Sistema operacional limitado
