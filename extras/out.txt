@@ -1,40 +1,64 @@
 **Nokia X2**
 
-**Rilis:** Mei 2014
+**Especificaciones:**
 
-**Sistem Operasi:** Nokia Asha Platform 1.1
+**Pantalla:**
+* LCD IPS de 4,3 pulgadas
+* Resolución: 800 x 480 píxeles (217 ppp)
 
-**Layar:**
-* TFT LCD 4,3 inci
-* Resolusi 480 x 800 piksel (WVGA)
-* Kepadatan piksel 217 ppi
+**Procesador:**
+* Qualcomm Snapdragon 200 MSM8210
+* CPU de doble núcleo a 1 GHz
 
-**Hardware:**
-* Prosesor dual-core 1,2 GHz
-* RAM 512 MB
-* Penyimpanan internal 4 GB (dapat diperluas hingga 32 GB melalui microSD)
-* Kamera belakang 5 MP, autofocus, lampu kilat LED
-* Kamera depan VGA
-* Baterai 1.800 mAh
+**Memoria:**
+* RAM: 512 MB
+* Almacenamiento interno: 4 GB
+* Ranura para tarjeta microSD (hasta 32 GB)
 
-**Fitur:**
-* Dual SIM
+**Cámara:**
+* Trasera: 5 MP con enfoque automático y flash LED
+* Frontal: VGA
+
+**Sistema operativo:**
+* Android 4.4 KitKat (actualizable a 5.1 Lollipop)
+
+**Conectividad:**
+* Wi-Fi b/g/n
+* Bluetooth 4.0
+* GPS asistido
 * Radio FM
-* Bluetooth 3.0
-* Koneksi internet GPRS/EDGE
-* Keyboard QWERTY fisik
-* Akses ke Nokia Store
-* Aplikasi pra-instal seperti WhatsApp, Facebook, dan Twitter
 
-**Kelebihan:**
-* Keyboard fisik responsif
-* Layar jernih dan cerah
-* Baterai tahan lama
-* Fitur dasar yang cukup
-* Harga terjangkau
+**Batería:**
+* Iones de litio extraíble de 1800 mAh
 
-**Kekurangan:**
-* Konektivitas internet terbatas
-* Kamera beresolusi rendah
-* Penyimpanan internal terbatas
-* Sistem operasi yang sudah ketinggalan zaman
+**Dimensiones y peso:**
+* 121,7 x 68,3 x 10,4 mm
+* 150 gramos
+
+**Características adicionales:**
+* Doble SIM
+* Acelerómetro
+* Sensor de proximidad
+* Radio FM
+* Reproductor de música y vídeo
+* Navegador web
+* Teclado Nokia Xpress-on
+
+**Ventajas:**
+
+* Precio asequible
+* Pantalla IPS vibrante
+* Ranura para tarjeta microSD
+* Batería extraíble
+* Interfaz de usuario fácil de usar
+
+**Desventajas:**
+
+* Procesador lento
+* Memoria RAM limitada
+* Cámara trasera de baja resolución
+* Versión antigua de Android
+
+**Conclusión:**
+
+El Nokia X2 es un teléfono inteligente económico que ofrece funciones básicas y un diseño elegante. Es una buena opción para aquellos que buscan un teléfono asequible con una pantalla decente y una duración de batería decente. Sin embargo, es importante tener en cuenta sus limitaciones en cuanto a rendimiento y cámara.
