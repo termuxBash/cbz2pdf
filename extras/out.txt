@@ -1,72 +1,78 @@
-**Nokia X2**
+**Especificações do Nokia X2**
 
-**Especificações:**
+**Tela:**
 
-**Display:**
-* 4,3 polegadas
-* TFT LCD
-* Resolução de 480 x 800 pixels
+* Tamanho: 4,3 polegadas
+* Tipo: LCD TFT
+* Resolução: 480 x 800 pixels
+* Densidade de pixels: 217 ppi
 
 **Sistema operacional:**
-* Android 4.4 KitKat
+
+* Android 4.4 KitKat com Nokia X Platform 2.0
+* Não atualizável para versões posteriores do Android
 
 **Processador:**
+
 * Qualcomm Snapdragon 200
-* Quad-core 1,2 GHz
+* Quad-core de 1,2 GHz
+* GPU Adreno 302
 
-**Memória RAM:**
-* 1 GB
+**Memória:**
 
-**Armazenamento:**
-* 4 GB interno (expansível até 32 GB via cartão microSD)
+* RAM: 1 GB
+* Armazenamento interno: 4 GB
+* Slot para cartão microSD (até 32 GB)
 
-**Câmera traseira:**
-* 5 megapixels
-* Flash LED
-* Foco automático
+**Câmera:**
 
-**Câmera frontal:**
-* 0,3 megapixels
+* Traseira: 5 megapixels com foco automático
+* Frontal: VGA (0,3 megapixels)
 
 **Conectividade:**
+
+* 3G HSPA+
 * Wi-Fi 802.11 b/g/n
 * Bluetooth 4.0
-* GPS
-* Rádio FM
+* GPS com A-GPS
+* Micro-USB
 
 **Sensores:**
+
 * Acelerômetro
 * Sensor de proximidade
 
 **Bateria:**
-* Íon de lítio de 1800 mAh
 
-**Dimensões:**
-* 121,7 x 68,1 x 10,4 mm
+* Capacidade: 1800 mAh
+* Removível
 
-**Peso:**
-* 150 gramas
+**Dimensões e peso:**
 
-**Recursos:**
+* Altura: 121,7 mm
+* Largura: 68,3 mm
+* Espessura: 10,4 mm
+* Peso: 150 g
 
-* **Dual SIM:** Suporta dois cartões SIM
-* **Fastlane:** Tela inicial personalizada que mostra notificações e informações recentes
-* **Nokia Xpress Now:** Aplicativo de notícias e informações
-* **Nokia MixRadio:** Serviço gratuito de streaming de música
-* **Loja de aplicativos Nokia:** Oferece uma seleção de aplicativos Android
-* **Suporte a cartão microSD:** Permite expandir o armazenamento até 32 GB
-* **Rádio FM:** Permite ouvir estações de rádio sem usar dados móveis
+**Outros recursos:**
+
+* Entrada para dois chips SIM
+* Rádio FM
+* Tomada de fone de ouvido de 3,5 mm
+* Personalização do tema com o App Center
 
 **Vantagens:**
 
 * Preço acessível
 * Design compacto e leve
-* Dual SIM
-* Bateria de longa duração
+* Entrada para dois chips SIM
+* Rádio FM
+* Bateria removível
 
 **Desvantagens:**
 
-* Display de baixa resolução
-* Pouco armazenamento interno
-* Câmeras de baixa qualidade
-* Sistema operacional limitado
+* Sistema operacional desatualizado (não atualizável)
+* Desempenho limitado devido ao baixo hardware
+* Câmera de baixa qualidade
+* Armazenamento interno limitado
+* Tela de baixa resolução
