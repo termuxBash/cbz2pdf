@@ -1,78 +1,40 @@
-**Especificações do Nokia X2**
+**Nokia X2**
 
-**Tela:**
+**Rilis:** Mei 2014
 
-* Tamanho: 4,3 polegadas
-* Tipo: LCD TFT
-* Resolução: 480 x 800 pixels
-* Densidade de pixels: 217 ppi
+**Sistem Operasi:** Nokia Asha Platform 1.1
 
-**Sistema operacional:**
+**Layar:**
+* TFT LCD 4,3 inci
+* Resolusi 480 x 800 piksel (WVGA)
+* Kepadatan piksel 217 ppi
 
-* Android 4.4 KitKat com Nokia X Platform 2.0
-* Não atualizável para versões posteriores do Android
+**Hardware:**
+* Prosesor dual-core 1,2 GHz
+* RAM 512 MB
+* Penyimpanan internal 4 GB (dapat diperluas hingga 32 GB melalui microSD)
+* Kamera belakang 5 MP, autofocus, lampu kilat LED
+* Kamera depan VGA
+* Baterai 1.800 mAh
 
-**Processador:**
+**Fitur:**
+* Dual SIM
+* Radio FM
+* Bluetooth 3.0
+* Koneksi internet GPRS/EDGE
+* Keyboard QWERTY fisik
+* Akses ke Nokia Store
+* Aplikasi pra-instal seperti WhatsApp, Facebook, dan Twitter
 
-* Qualcomm Snapdragon 200
-* Quad-core de 1,2 GHz
-* GPU Adreno 302
+**Kelebihan:**
+* Keyboard fisik responsif
+* Layar jernih dan cerah
+* Baterai tahan lama
+* Fitur dasar yang cukup
+* Harga terjangkau
 
-**Memória:**
-
-* RAM: 1 GB
-* Armazenamento interno: 4 GB
-* Slot para cartão microSD (até 32 GB)
-
-**Câmera:**
-
-* Traseira: 5 megapixels com foco automático
-* Frontal: VGA (0,3 megapixels)
-
-**Conectividade:**
-
-* 3G HSPA+
-* Wi-Fi 802.11 b/g/n
-* Bluetooth 4.0
-* GPS com A-GPS
-* Micro-USB
-
-**Sensores:**
-
-* Acelerômetro
-* Sensor de proximidade
-
-**Bateria:**
-
-* Capacidade: 1800 mAh
-* Removível
-
-**Dimensões e peso:**
-
-* Altura: 121,7 mm
-* Largura: 68,3 mm
-* Espessura: 10,4 mm
-* Peso: 150 g
-
-**Outros recursos:**
-
-* Entrada para dois chips SIM
-* Rádio FM
-* Tomada de fone de ouvido de 3,5 mm
-* Personalização do tema com o App Center
-
-**Vantagens:**
-
-* Preço acessível
-* Design compacto e leve
-* Entrada para dois chips SIM
-* Rádio FM
-* Bateria removível
-
-**Desvantagens:**
-
-* Sistema operacional desatualizado (não atualizável)
-* Desempenho limitado devido ao baixo hardware
-* Câmera de baixa qualidade
-* Armazenamento interno limitado
-* Tela de baixa resolução
+**Kekurangan:**
+* Konektivitas internet terbatas
+* Kamera beresolusi rendah
+* Penyimpanan internal terbatas
+* Sistem operasi yang sudah ketinggalan zaman
