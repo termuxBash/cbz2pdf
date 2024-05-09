@@ -1,44 +1,4 @@
-**Nokia X2**
+Impudent means:
 
-**Especificações Técnicas:**
-
-* **Sistema Operacional:** Android 5.1 Lollipop
-* **Tamanho da Tela:** 4,3 polegadas IPS LCD
-* **Resolução da Tela:** 800 x 480 pixels
-* **Densidade de Pixels:** 217 ppi
-* **Processador:** Qualcomm Snapdragon 200 quad-core de 1,2 GHz
-* **Memória RAM:** 1 GB
-* **Armazenamento Interno:** 8 GB
-* **Armazenamento Expansível:** Cartão microSD até 32 GB
-* **Câmera Traseira:** 5 MP, foco automático
-* **Câmera Frontal:** VGA
-* **Conectividade:** Wi-Fi, Bluetooth 4.0, GPS, rádio FM
-* **Bateria:** Li-Ion removível de 1800 mAh
-* **Dimensões:** 121,7 x 68,3 x 11,1 mm
-* **Peso:** 150 g
-
-**Características:**
-
-* Interface de usuário Nokia Xpress NOW
-* Integração com aplicativos Microsoft
-* Suporte a dois cartões SIM
-* Rádio FM
-* Bateria de longa duração
-
-**Pontos Positivos:**
-
-* Preço acessível
-* Boa bateria
-* Interface de usuário simples
-* Suporte a dois cartões SIM
-
-**Pontos Negativos:**
-
-* Tela de baixa resolução
-* Câmera fraca
-* Pouca memória RAM
-* Sistema operacional desatualizado
-
-**Conclusão:**
-
-O Nokia X2 foi um smartphone básico lançado em 2014. Ele oferece uma combinação de recursos essenciais a um preço acessível. No entanto, sua tela de baixa resolução, câmera fraca e sistema operacional desatualizado podem ser pontos negativos para alguns usuários.
+* Rude or disrespectful, especially to a person in authority.
+* Bold or presumptuous.
