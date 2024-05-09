@@ -1,64 +1,53 @@
 **Nokia X2**
 
-**Especificaciones:**
+**Especificações Técnicas**
 
-**Pantalla:**
-* LCD IPS de 4,3 pulgadas
-* Resolución: 800 x 480 píxeles (217 ppp)
+**Tela:**
+* Display IPS LCD de 4,3 polegadas
+* Resolução de 480 x 800 pixels (217 ppi)
 
-**Procesador:**
-* Qualcomm Snapdragon 200 MSM8210
-* CPU de doble núcleo a 1 GHz
+**Processador:**
+* Qualcomm Snapdragon 200 de núcleo quádruplo
+* Velocidade de clock de 1,2 GHz
 
-**Memoria:**
-* RAM: 512 MB
-* Almacenamiento interno: 4 GB
-* Ranura para tarjeta microSD (hasta 32 GB)
+**RAM:**
+* 512 MB
 
-**Cámara:**
-* Trasera: 5 MP con enfoque automático y flash LED
-* Frontal: VGA
+**Armazenamento:**
+* 4 GB
+* Expansível via cartão microSD (até 32 GB)
 
-**Sistema operativo:**
-* Android 4.4 KitKat (actualizable a 5.1 Lollipop)
+**Sistema Operacional:**
+* Android 4.4.2 (KitKat)
 
-**Conectividad:**
-* Wi-Fi b/g/n
+**Câmera Traseira:**
+* 5 megapixels
+* Foco automático
+* Flash LED
+
+**Câmera Frontal:**
+* VGA (0,3 megapixels)
+
+**Conectividade:**
+* Wi-Fi 802.11 b/g/n
 * Bluetooth 4.0
-* GPS asistido
-* Radio FM
+* GPS
+* Rádio FM
 
-**Batería:**
-* Iones de litio extraíble de 1800 mAh
+**Bateria:**
+* Bateria removível de 1.800 mAh
 
-**Dimensiones y peso:**
-* 121,7 x 68,3 x 10,4 mm
-* 150 gramos
+**Recursos:**
+* Suporte a Dual SIM
+* Rádio FM com RDS
+* Processador gráfico Adreno 302
+* Acelerômetro
+* Sensor de proximidade
 
-**Características adicionales:**
-* Doble SIM
-* Acelerómetro
-* Sensor de proximidad
-* Radio FM
-* Reproductor de música y vídeo
-* Navegador web
-* Teclado Nokia Xpress-on
+**Design:**
+* Corpo de policarbonato
+* Dimensões: 121,7 x 68,1 x 10,4 mm
+* Peso: 150 g
 
-**Ventajas:**
-
-* Precio asequible
-* Pantalla IPS vibrante
-* Ranura para tarjeta microSD
-* Batería extraíble
-* Interfaz de usuario fácil de usar
-
-**Desventajas:**
-
-* Procesador lento
-* Memoria RAM limitada
-* Cámara trasera de baja resolución
-* Versión antigua de Android
-
-**Conclusión:**
-
-El Nokia X2 es un teléfono inteligente económico que ofrece funciones básicas y un diseño elegante. Es una buena opción para aquellos que buscan un teléfono asequible con una pantalla decente y una duración de batería decente. Sin embargo, es importante tener en cuenta sus limitaciones en cuanto a rendimiento y cámara.
+**Disponibilidade:**
+* Lançado em junho de 2014
