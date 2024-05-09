@@ -1,53 +1,53 @@
 **Nokia X2**
 
-**Especificações Técnicas**
+**Especificações Gerais:**
+
+* **SO:** Android 8.1 Oreo (Go Edition)
+* **Processador:** MediaTek MT6737 Helio P22, octa-core, 2 GHz
+* **GPU:** PowerVR GE8320
+* **RAM:** 1 GB
+* **Armazenamento:** 8 GB (expansível até 128 GB via microSD)
 
 **Tela:**
-* Display IPS LCD de 4,3 polegadas
-* Resolução de 480 x 800 pixels (217 ppi)
 
-**Processador:**
-* Qualcomm Snapdragon 200 de núcleo quádruplo
-* Velocidade de clock de 1,2 GHz
+* IPS LCD de 5,5 polegadas
+* Resolução: 720 x 1440 pixels
+* Densidade de pixels: 293 ppi
 
-**RAM:**
-* 512 MB
+**Câmeras:**
 
-**Armazenamento:**
-* 4 GB
-* Expansível via cartão microSD (até 32 GB)
+* **Traseira:**
+    * Primária: 8 MP, f/2.2
+    * Secundária: 2 MP, f/2.4
+* **Frontal:**
+    * 5 MP, f/2.2
 
-**Sistema Operacional:**
-* Android 4.4.2 (KitKat)
+**Características:**
 
-**Câmera Traseira:**
-* 5 megapixels
-* Foco automático
-* Flash LED
-
-**Câmera Frontal:**
-* VGA (0,3 megapixels)
-
-**Conectividade:**
+* Dual SIM
+* 4G LTE
 * Wi-Fi 802.11 b/g/n
-* Bluetooth 4.0
+* Bluetooth 4.2
 * GPS
+* Entrada de fone de ouvido de 3,5 mm
 * Rádio FM
+* Sensor de impressão digital (traseiro)
+* Bateria removível de 3.000 mAh
 
-**Bateria:**
-* Bateria removível de 1.800 mAh
+**Pontos Positivos:**
 
-**Recursos:**
-* Suporte a Dual SIM
-* Rádio FM com RDS
-* Processador gráfico Adreno 302
-* Acelerômetro
-* Sensor de proximidade
+* Preço acessível
+* Tela grande com boa resolução
+* Bateria removível e de longa duração
+* Sensor de impressão digital
 
-**Design:**
-* Corpo de policarbonato
-* Dimensões: 121,7 x 68,1 x 10,4 mm
-* Peso: 150 g
+**Pontos Negativos:**
 
-**Disponibilidade:**
-* Lançado em junho de 2014
+* Pouca RAM (1 GB)
+* Armazenamento limitado (8 GB)
+* Câmeras de qualidade medíocre
+* Versão antiga do Android
+
+**Conclusão:**
+
+O Nokia X2 é um smartphone básico com preço acessível, voltado para usuários que buscam um dispositivo barato para tarefas diárias. Ele oferece uma tela grande, bateria de longa duração e sensor de impressão digital, mas fica limitado por sua pouca memória RAM, armazenamento restrito e câmeras de baixa qualidade.
