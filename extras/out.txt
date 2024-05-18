@@ -1,1 +1,10 @@
-Tsugumi Ohba
+Tails (The Amnesic Incognito Live System) is a privacy-oriented Linux distribution that runs off a USB stick or DVD and leaves no trace on the host computer. It is designed to be secure and anonymous, and it includes a number of features to help protect users from surveillance and tracking.
+
+Tails is based on the Debian GNU/Linux distribution, and it includes a number of privacy-enhancing tools, such as:
+
+* Tor: Tails includes the Tor browser, which allows users to access the internet anonymously. Tor encrypts traffic multiple times and routes it through a series of volunteer-operated servers, making it difficult to trace back to its source.
+* HTTPS Everywhere: Tails also includes the HTTPS Everywhere extension, which forces websites to use HTTPS encryption. HTTPS encrypts traffic between the user's browser and the website, protecting it from eavesdropping.
+* NoScript: Tails includes the NoScript extension, which blocks all JavaScript on websites by default. JavaScript can be used to track users and to attack their computers, so blocking it can help to improve privacy and security.
+* Privacy Badger: Tails includes the Privacy Badger extension, which blocks third-party trackers and other invasive scripts. Privacy Badger can help to prevent websites from tracking users and to protect their privacy.
+
+Tails is a powerful tool for protecting privacy and anonymity. It is easy to use and it can be run from a USB stick or DVD, making it a great option for anyone who wants to protect their privacy online.
