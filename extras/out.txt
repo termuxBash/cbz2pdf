@@ -1,9 +1,7 @@
-Tails (The Amnesic Incognito Live System) is a live operating system that aims to protect user privacy and anonymity. It is based on Debian Linux and is designed to be run from a USB drive or DVD.
+Tails OS (The Amnesic Incognito Live System) is a live operating system that is designed to protect your privacy and anonymity. It is based on Debian Linux and is pre-configured with a variety of privacy-enhancing tools, including Tor, I2P, and Tailscale.
 
-Tails includes a number of features that help to protect user privacy, including:
+Tails OS is typically used on a USB drive or DVD, and it can be booted from any computer. This makes it easy to useTails OS on any computer, even if you don't have physical access to the machine.
 
-* **Tor:** Tails uses Tor to encrypt all of its network traffic, making it difficult for anyone to track the user's online activities.
-* **Amnesia:** Tails is designed to leave no trace of the user's activities on the computer. When the user shuts down Tails, all of the data that was created during the session is deleted.
-* **Privacy-focused tools:** Tails includes a number of privacy-focused tools, such as a web browser with built-in privacy features, a password manager, and a file encryption tool.
+When you boot Tails OS, it will create a temporary, encrypted file system on your computer. This file system will store all of your data and activities, and it will be deleted when you shut down Tails OS. This ensures that your data will not be stored on the computer after you have finished using Tails OS.
 
-Tails is a powerful tool for protecting user privacy and anonymity. It is a good choice for anyone who is concerned about their online privacy or who needs to protect their data from surveillance or censorship.
+Tails OS is a powerful tool that can help you to protect your privacy and anonymity online. It is easy to use and can be used on any computer.
