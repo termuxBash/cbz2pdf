@@ -1,13 +1,13 @@
-**Locate:**
+**Locate Configuration:**
 
-* **Enabled:** True (for Mac)
-* **Delay:** 120 minutes
+* **Enable MAC address tracking:** True
+* **Locate delay:** 120 minutes
 
-**SSH:**
+**SSH Configuration:**
 
-* **Enabled:** True (for Mac)
+* **Enable MAC address tracking:** True
 * **On Time:** 18:00 (6:00 PM)
 
-**Mobile Device Management (MDM):**
+**Motion Detection:**
 
-* Not mentioned
+* Motion detection is **disabled**.
