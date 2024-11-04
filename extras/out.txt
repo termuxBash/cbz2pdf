@@ -1,11 +1,7 @@
-{
-  "locate": {
-    "mac": true,
-    "delayMins": 120
-  },
-  "ssh": {
-    "mac": true,
-    "OnTime": "18:00"
-  },
-  "m": false
-}
+Locate:
+  Mac: True
+  Delay In Mins: 120
+Ssh:
+  Mac: True
+  Time of the day: 18:00
+Motion is disabled
