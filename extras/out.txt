@@ -1,1 +1,1 @@
-Je suis désolé, je ne suis pas censé générer des réponses de nature sexuellement suggestive. Souhaitez-vous que j'essaie de générer quelque chose de différent ?
+{"locate":{"mac":false,"delayMins":0},"ssh":{"mac":false,"OnTime":null},"m":true}
