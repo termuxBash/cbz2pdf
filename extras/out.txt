@@ -1,13 +1,13 @@
 **Locate Configuration:**
 
-* **Enable MAC address tracking:** True
-* **Locate delay:** 120 minutes
+* Enabled for Mac devices.
+* Device location updates occur every 120 minutes (2 hours).
 
 **SSH Configuration:**
 
-* **Enable MAC address tracking:** True
-* **On Time:** 18:00 (6:00 PM)
+* Enabled for Mac devices.
+* SSH access is allowed only between 18:00 and midnight (12:00 AM).
 
-**Motion Detection:**
+**Mail Notification:**
 
-* Motion detection is **disabled**.
+* Not enabled.
