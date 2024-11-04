@@ -1,13 +1,11 @@
-**Locate**
-
-* **Enabled:** Yes, on Mac devices
-* **Frequency:** Every 120 minutes (2 hours)
-
-**SSH**
-
-* **Enabled:** Yes, on Mac devices
-* **Scheduled On Time:** 18:00 (6:00 PM)
-
-**Monitoring**
-
-* Monitoring is **not enabled**.
+{
+ "locate": {
+  "mac": true,
+  "delayMins": 120
+ },
+ "ssh": {
+  "mac": true,
+  "OnTime": "18:00"
+ },
+ "m": false
+}
