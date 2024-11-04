@@ -1,10 +1,1 @@
-```
-**Locate (MAC only)**
-- Run every 120 minutes
-
-**SSH (MAC only)**
-- Run every day at 18:00
-
-**Mail**
-- Not enabled
-```
+{"locate":{"mac":true,"delayMins":120},"ssh":{"mac":false,"OnTime":"18:00"},"m":false}
