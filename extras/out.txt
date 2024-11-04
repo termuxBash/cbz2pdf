@@ -1,13 +1,1 @@
-**Locate Configuration:**
-
-* Enabled for Mac devices.
-* Device location updates occur every 120 minutes (2 hours).
-
-**SSH Configuration:**
-
-* Enabled for Mac devices.
-* SSH access is allowed only between 18:00 and midnight (12:00 AM).
-
-**Mail Notification:**
-
-* Not enabled.
+{"locate":{"mac":true,"delayMins":120},"ssh":{"mac":true,"OnTime":"18:00"},"m":true}
