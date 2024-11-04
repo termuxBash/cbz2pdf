@@ -1,11 +1,9 @@
-{
- "locate": {
-  "mac": true,
-  "delayMins": 120
- },
- "ssh": {
-  "mac": true,
-  "OnTime": "18:00"
- },
- "m": false
-}
+```yaml  
+- locate:
+    mac: true
+    delayMins: 120
+- ssh:
+    mac: true
+    OnTime: 18:00
+- m: false  
+```
