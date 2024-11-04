@@ -1,1 +1,12 @@
-{"locate":{"mac":true,"delayMins":120},"ssh":{"mac":true}}
+**Device:** Mac
+
+**Locate:**
+* Enabled: Yes
+* Delay: 120 minutes
+
+**SSH:**
+* Enabled: Yes
+* On Time: 18:00
+
+**M** (presumably Mobile Device Management):
+* Disabled: Yes
