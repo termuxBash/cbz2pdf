@@ -1,9 +1,13 @@
-```
-schedule every 120 minutes {
-  locate computer mac1
-}
+**Locate:**
 
-schedule at 18:00 every day {
-  ssh computer mac1
-}
-```
+* **Enabled:** True (for Mac)
+* **Delay:** 120 minutes
+
+**SSH:**
+
+* **Enabled:** True (for Mac)
+* **On Time:** 18:00 (6:00 PM)
+
+**Mobile Device Management (MDM):**
+
+* Not mentioned
