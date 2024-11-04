@@ -1,9 +1,10 @@
-```yaml  
-- locate:
-    mac: true
-    delayMins: 120
-- ssh:
-    mac: true
-    OnTime: 18:00
-- m: false  
-```
+**Locate:**
+* Enabled on Mac
+* Delay: 120 minutes
+
+**SSH:**
+* Enabled on Mac
+* On-time activation: 18:00 hours
+
+**Microphone Permission:**
+* Disabled
