@@ -1,1 +1,1 @@
-{"locate":{"mac":true,"delayMins":120},"ssh":{"mac":false,"OnTime":"18:00"},"m":false}
+{"locate":{"delayMins":120,"mac":true},"ssh":{"OnTime":"18:00","mac":true},"m":false}
