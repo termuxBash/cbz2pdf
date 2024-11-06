@@ -1,1 +1,10 @@
-{"locate":{"delayMins":120,"mac":true},"ssh":{"OnTime":"18:00","mac":true},"m":false}
+**Locate:**
+* Enable location tracking on Mac devices.
+* Set the delay to 120 minutes.
+
+**SSH:**
+* Enable SSH on Mac devices.
+* Schedule SSH to connect at 18:00 each day.
+
+**Notes:**
+* Mobile device tracking (m) is not enabled as it is not specified in the instructions.
