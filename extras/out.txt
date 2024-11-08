@@ -1,10 +1,13 @@
-**Device Configuration**
+**Configuration:**
 
-* **Locate:**
-    * Enable location tracking for Mac devices
-    * Delay location updates to every 120 minutes
-* **SSH:**
-    * Enable SSH access for Mac devices
-    * Schedule SSH access to be available only at 18:00
-* **Management:**
-    * Mobile device management is not enabled
+* **Locate:** Enabled for macOS, with a delay of 120 minutes.
+* **SSH:** Enabled for macOS, scheduled to turn on at 18:00 every day.
+* **Mail:** Not enabled.
+
+**Explanation:**
+
+This configuration ensures that:
+
+1. **Locate:** If the macOS device is lost or stolen, it can be located using the Find My Device service, even if the battery is low. However, there is a 2-hour delay before the device's location can be determined.
+2. **SSH:** SSH access to the macOS device will be enabled at 18:00 every day, allowing remote connection for maintenance or troubleshooting purposes.
+3. **Mail:** Mail access is not enabled, as it is not specified in the configuration provided.
