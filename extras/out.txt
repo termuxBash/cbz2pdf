@@ -1,1 +1,15 @@
-{"locate":{"mac":true,"delayMins":120},"ssh":{"mac":false,"OnTime":"18:00"},"m":false}
+```
+schedule = {
+    "locate": {
+        "on": True,
+        "mac": True,
+        "delayMins": 120
+    },
+    "ssh": {
+        "on": True,
+        "mac": True,
+        "OnTime": "18:00"
+    },
+    "m": False
+}
+```
