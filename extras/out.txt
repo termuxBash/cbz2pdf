@@ -1,10 +1,11 @@
-**Configuration:**
-
-* **Locate:**
-    * Enabled for Mac devices
-    * Delay: 120 minutes
-* **SSH:**
-    * Enabled for Mac devices
-    * Scheduled start time: 18:00
-* **Messages:**
-    * Not enabled
+{
+  "locate": {
+    "mac": true,
+    "delayMins": 120
+  },
+  "ssh": {
+    "mac": true,
+    "OnTime": "18:00"
+  },
+  "m": false
+}
