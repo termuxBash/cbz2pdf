@@ -1,7 +1,12 @@
-```
-# Locate the Mac every 120 minutes
-*/2 * * * * /usr/bin/mdfind "kind:computer" > /tmp/result
+**Service Configuration**
 
-# SSH into the Mac at 18:00
-0 18 * * * /usr/bin/ssh -o ConnectTimeout=5 -o ConnectionAttempts=1 -i /Users/Shared/.ssh/id_rsa USERNAME@$(cat /tmp/result) uptime
-```
+**Locate:**
+* Enable locate service on macOS devices.
+* Set locate interval to 120 minutes.
+
+**SSH:**
+* Enable SSH service on macOS devices.
+* Set SSH access to be allowed only at 18:00.
+
+**Maintenance:**
+* **Maintenance Mode:** Not enabled.
