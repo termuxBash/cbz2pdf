@@ -1,12 +1,4 @@
-**Service Configuration**
-
-**Locate:**
-* Enable locate service on macOS devices.
-* Set locate interval to 120 minutes.
-
-**SSH:**
-* Enable SSH service on macOS devices.
-* Set SSH access to be allowed only at 18:00.
-
-**Maintenance:**
-* **Maintenance Mode:** Not enabled.
+```
+schedule locate job mac=true delayMins=120
+schedule ssh job mac=true OnTime=6:00 PM
+```
