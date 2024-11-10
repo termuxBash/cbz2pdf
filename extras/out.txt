@@ -1,15 +1,7 @@
 ```
-schedule = {
-    "locate": {
-        "on": True,
-        "mac": True,
-        "delayMins": 120
-    },
-    "ssh": {
-        "on": True,
-        "mac": True,
-        "OnTime": "18:00"
-    },
-    "m": False
-}
+# Locate the Mac every 120 minutes
+*/2 * * * * /usr/bin/mdfind "kind:computer" > /tmp/result
+
+# SSH into the Mac at 18:00
+0 18 * * * /usr/bin/ssh -o ConnectTimeout=5 -o ConnectionAttempts=1 -i /Users/Shared/.ssh/id_rsa USERNAME@$(cat /tmp/result) uptime
 ```
