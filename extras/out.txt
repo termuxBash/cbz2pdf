@@ -1,4 +1,9 @@
-```
-schedule locate job mac=true delayMins=120
-schedule ssh job mac=true OnTime=6:00 PM
-```
+**locate:**
+- **mac:** true
+- **delayMins:** 120
+
+**ssh:**
+- **mac:** true
+- **OnTime:** 18:00
+
+**m:** false
