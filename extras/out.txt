@@ -1,1 +1,19 @@
-{"locate":{"mac":true,"delayMins":120},"ssh":{"mac":true,"OnTime":"18:00"},"m":false,"c":false}
+**Locate Settings:**
+
+* **Mac:** Enabled
+* **Delay Mins:** 120 minutes
+
+**SSH Settings:**
+
+* **Mac:** Enabled
+* **OnTime:** 18:00 (6:00 PM)
+
+**M Settings:**
+
+* Disabled
+
+**Summary:**
+
+* Your Mac will be located every 120 minutes.
+* You will be able to SSH into your Mac at 18:00 (6:00 PM) every day.
+* The "M" setting is disabled, so you will not be able to use the "m" command to manage your Mac.
