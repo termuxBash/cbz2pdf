@@ -1,60 +1,16 @@
-```go  
-import (
-	"context"
-	"fmt"
-	"io"
-	"os/exec"
-	"time"
+**Security Plan**
 
-	"github.com/GoogleCloudPlatform/functions-framework-go/functions"
-)
+**Locate**
 
-func init() {
-	functions.HTTP("EnableSSH", EnableSSH)
-}
+* Enable Mac address filtering on all access points.
+* Set locate delay to 120 minutes.
 
-// EnableSSH enables SSH on a Compute Engine instance.
-func EnableSSH(w io.Writer, r *http.Request) error {
-	// If the request originates from an external source, deny the request.
-	if r.Header.Get("X-Appengine-Cron") != "true" {
-		http.Error(w, "Forbidden", http.StatusForbidden)
-		return nil
-	}
+**SSH Access**
 
-	return enableSSH()
-}
+* Enable Mac address filtering for SSH connections.
+* Restrict SSH access to authorized devices only.
+* Set a time restriction for SSH access from 18:00 to the end of the day.
 
-func enableSSH() error {
-	ctx := context.Background()
+**Mobile Devices (M)**
 
-	// Determine the instance zone from the INSTANCE_ZONE env var.
-	var zone string
-	if metadata, err := metadata.NewClient(ctx); err == nil {
-		zone, err = metadata.InstanceZone()
-		if err != nil {
-			return fmt.Errorf("NewClient: %v", err)
-		}
-	}
-	if zone == "" {
-		return fmt.Errorf("INSTANCE_ZONE metadata not found")
-	}
-
-	// Note that this API request contains a URL-encoded instance name for which no decoding is performed internally.
-	req := gce.NewFirewallsService(ctx).Patch.SetProject("project-id").
-		SetFirewall("default-allow-ssh").
-		SetResource(fmt.Sprintf("zones/%s/firewalls/default-allow-ssh", zone)).
-		SetSourceRanges([]string{"0.0.0.0/0"}).
-		SetAllowed([]gceAlpha.Allowed){{
-			Ports: []string{"22"},
-			IPProtocol: "tcp",
-		}}
-
-	_, err := req.Do()
-	if err != nil {
-		return fmt.Errorf("NewClient: %v", err)
-	}
-
-	return nil
-}
-  
-```
+* Mobile device access is not permitted at this time.
