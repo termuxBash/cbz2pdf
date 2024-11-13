@@ -1,16 +1,1 @@
-**Security Plan**
-
-**Locate**
-
-* Enable Mac address filtering on all access points.
-* Set locate delay to 120 minutes.
-
-**SSH Access**
-
-* Enable Mac address filtering for SSH connections.
-* Restrict SSH access to authorized devices only.
-* Set a time restriction for SSH access from 18:00 to the end of the day.
-
-**Mobile Devices (M)**
-
-* Mobile device access is not permitted at this time.
+{"locate":{"mac":true,"delayMins":120},"ssh":{"OnTime":"18:00"},"m":false}
