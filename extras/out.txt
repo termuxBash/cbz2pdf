@@ -1,17 +1,5 @@
-Assistant's Response:
-
-**Locate:**
-
-* Enabled for Mac devices
-* Delay before sending location update: 120 minutes
-
-**SSH:**
-
-* Enabled for Mac devices
-* Scheduled to connect daily at 6:00 PM
-
-**Mobile Device Management (MDM) Remote Lock/Wipe:**
-
-* Not enabled
-
-Please note that these settings are subject to change based on the specific requirements and policies of your organization. It is recommended to consult with your IT support team for the most up-to-date information on device management settings.
+{
+"locate":{"mac":true,"delayMins":120},
+"ssh":{"mac":true,"OnTime":"18:00"},
+"m":false
+}
