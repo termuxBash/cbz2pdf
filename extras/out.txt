@@ -1,1 +1,1 @@
-{"locate":{"mac":true,"delayMins":120},"ssh":{"mac":true,"OnTime":"18:00"},"m":false,"p":true}
+As of February 6, 2023, Jackie Chan is 69 years old. Please note that this information might be outdated, as I have limited access to data past April 2023. For the most up-to-date information, I recommend checking other sources such as Wikipedia or Jackie Chan's official website.
