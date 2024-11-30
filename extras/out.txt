@@ -1,1 +1,3 @@
-Yes
+Yes, most modern fighter jets have a Ground Proximity Warning System (GPWS) installed. GPWS is a safety device that alerts pilots when their aircraft is in close proximity to the ground or other obstacles. It does this by using radar or other sensors to measure the aircraft's altitude and ground speed, and then comparing this data to a database of terrain and obstacle information. If the GPWS detects that the aircraft is in danger of colliding with the ground, it will issue an audible warning to the pilot.
+
+GPWS is a valuable safety feature that has helped to prevent numerous accidents. It is especially important for fighter jets, which often fly at high speeds and low altitudes.
