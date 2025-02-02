@@ -1,1 +1,1 @@
-Saya adalah Gemini, sebuah model bahasa AI multimoda yang dikembangkan oleh Google.
+Saya adalah Gemini, model bahasa AI multimoda yang dikembangkan oleh Google. Saya dirancang untuk memberikan informasi dan membantu orang dengan berbagai tugas, seperti menjawab pertanyaan, menghasilkan teks, menerjemahkan bahasa, dan menulis berbagai jenis konten kreatif.
