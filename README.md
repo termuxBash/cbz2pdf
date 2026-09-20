@@ -175,7 +175,7 @@ Temporary files and directories are cleaned after conversion.
 
 # Which version should I use?
 
-| Feature                   | Bash / Termux | Python                               |
+| Feature                   | Bash / Termux | Python (works in any os with python 3+)|
 | ------------------------- | ------------- | ------------------------------------ |
 | Android / Termux          | ✅             | Possible, but not the primary target |
 | Linux                     | ❌/Limited     | ✅                                    |
@@ -191,3 +191,4 @@ Temporary files and directories are cleaned after conversion.
 **Use the Bash version** if you want the Termux workflow and Mega downloads.
 
 **Use the Python version** if you already have comic archives and want a standalone archive-to-PDF converter.
+* Python version has the ability to reduce the file size significantly 
