@@ -9,7 +9,7 @@ This repository provides **two ways** to convert comics:
 
 ---
 
-# Option 1 — Bash / Termux
+# Option 1 — Bash / Termux (Legacy)
 
 The Bash version is designed to run in **Termux** and can download comic files directly from `mega.io`.
 
@@ -76,7 +76,7 @@ pkg install termux-api
 
 ---
 
-# Option 2 — Python
+# Option 2 — Python (Recommended)
 
 The Python version is intended for converting **existing comic archives** on Linux/Unix-like systems.
 
