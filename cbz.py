@@ -61,7 +61,7 @@ def toPDF2(filename, newdir, ii, move_back=False):
             # -------------------------
             # better grayscale detection
             # -------------------------
-            sample = list(rgb.getdata())[::1000]
+            sample = rgb.resize((32, 32)).getdata()
 
             is_bw = all(
                 abs(r - g) < 10 and abs(g - b) < 10
